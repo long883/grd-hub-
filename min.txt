@@ -94,7 +94,7 @@ GetKeyButton.Parent = frame
 --------------------------------------------------------------------------
 SubmitButton.MouseButton1Click:Connect(function()
     local KeySystem = KeySystem.Text
-    if KeySystem == "Kikimora" then   
+    if KeySystem == "2a3s45df8c" then   
 screenGui:Destroy()
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Basicallyy/Basicallyy/main/MinGamingV4.lua"))()
